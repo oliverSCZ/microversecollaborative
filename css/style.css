@@ -1,9 +1,16 @@
-.image {
+#image {
  max-width: 100%;
  height: auto;
  display: block;
  margin: 0 auto;
+ 
 }
+
 img {
   width: 250px;
 }
+h1 {
+    font-size: 5rem;
+    margin-bottom: 0;
+    text-align: center;
+  }
